@@ -7,7 +7,7 @@ import ProductDetail from "./assets/pages/ProductDetail";
 import Student from "./assets/pages/Student";
 import Login from "./assets/pages/Login";
 import PrivateRouter from "./assets/pages/PrivateRouter";
-import Account from "../../../ss26/pages/Account";
+import Account from "./assets/pages/Account";
 import Team from "./assets/pages/Team";
 import Teams from "./assets/pages/Teams";
 
